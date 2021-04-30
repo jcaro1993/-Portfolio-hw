@@ -1,5 +1,5 @@
 html body {
-    background-image: linear-gradient(#64646469, #a8aac5b4), url("./assets/images/pine-watt-2Hzmz15wGik-unsplash.jpg");
+    background-image: linear-gradient(#64646469, #a8aac5b4), url("https://image.freepik.com/free-vector/white-abstract-background-theme_23-2148830605.jpg");
     background-size: cover;
     min-height: 100vh;
 }
@@ -24,4 +24,19 @@ img {
     border-radius: 150%;
     padding: 10px;
     margin: 10px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(51, 51, 61);
+    color: rgb(214, 215, 226);
+    text-align: center;
+}
+
+.myinfo {
+    padding: 15px;
+    position: left;
 }
